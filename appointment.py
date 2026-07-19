@@ -1,7 +1,1 @@
-print("Hospital Appointment Booking System")
-
-def register_patient():
-    print("Patient Registration Module")
-
-def login():
-    print("Login Successful")
+print("Welcome to Hospital Appointment Booking System")
