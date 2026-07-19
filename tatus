@@ -1,0 +1,11 @@
+[33m9282dfb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Resolved merge conflict
+[33m37f1703[m[33m ([m[1;32mlogin-feature[m[33m)[m Updated login message
+[33mf205a78[m Updated welcome message
+[33mbc9ff8a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Added login feature
+[33m3604407[m Added patient registration module
+[33mb796631[m Initial commit - Added appointment.py
+[33m448dfb3[m Delete patient.py
+[33m6c8b2cf[m Delete appointment.py
+[33md6489ca[m Add hello print statement to patient.py
+[33m13dd829[m Add initial print statement for appointment system
+[33mda82d14[m Initial commit
